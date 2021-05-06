@@ -1,7 +1,7 @@
 # Project
 Programs in folders soup and selenium can be evalueted by python3 interpreter.
 
-Folder scrapy contain three spider files that have to be copy to relevant scrapy project folder and can be run with scrapy crawl commands:
+Folder scrapy contain three spider files that have to be copy to relevant scrapy project folder and can be run with scrapy crawl commands (do this in this order):
 
 File Scrapy_WTA_1.py command: 	scrapy crawl WTA_1 -o WTA1.csv
 
