@@ -14,7 +14,6 @@ class LinkSpider(scrapy.Spider):
     start_urls = ['https://www.tennis.com/rankings/WTA/']
 
 
-#ranking ok!
     def parse(self, response):
         # if bool = True it scrape only 99 trs, if bool=False it scrape every trs it found
         bool = True
